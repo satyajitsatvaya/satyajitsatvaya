@@ -1,4 +1,4 @@
-<h3 align="center">Backend Focused Developer</h3>
+<h3 align="center">Backend Focused Developer</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajitsatvaya" alt="satyajitsatvaya" /></a> </p>
 
