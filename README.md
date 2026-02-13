@@ -6,8 +6,9 @@ I build scalable backend systems using Spring Boot and develop real-world applic
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyajitsatvaya&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=satyajitsatvaya" />
 </p>
+>
 
 
 ---
