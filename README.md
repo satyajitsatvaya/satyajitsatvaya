@@ -6,19 +6,40 @@ I build scalable backend systems using Spring Boot and develop real-world applic
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=satyajitsatvaya&theme=algolia&margin-w=10&margin-h=10"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=satyajitsatvaya&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
 ### 🚀 Current Focus
+
 - 🔭 Currently building **Smart Expense Tracker (HisabKhata)**  
+  👉 https://github.com/satyajitsatvaya/Smart_Expense_Tracker
+
 - 🌱 Focused on **Spring Boot, System Design, Security, and Backend Architecture**
+
 - 💡 Experienced in **JWT Authentication, REST APIs, Analytics, Budget Systems**
+
 - 📫 Reach me at: **satvayasatyajit@gmail.com**
+
 - 💼 LinkedIn: **https://www.linkedin.com/in/satyajitsatvaya/**
+
+---
+
+### 💼 Featured Project
+
+### 🔗 Smart Expense Tracker (HisabKhata)  
+👉 https://github.com/satyajitsatvaya/Smart_Expense_Tracker
+
+Backend system built using Spring Boot with:
+
+- JWT Authentication & Authorization  
+- Expense CRUD APIs  
+- Budget Management System  
+- Analytics (monthly, category-wise, date range)  
+- Alert System (budget exceeded, warnings)  
+- Clean Architecture and scalable design  
 
 ---
 
@@ -42,8 +63,6 @@ I build scalable backend systems using Spring Boot and develop real-world applic
 ---
 
 ### 🛠️ Tech Stack
-
-<p align="left">
 
 <strong>Backend:</strong><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -71,8 +90,6 @@ I build scalable backend systems using Spring Boot and develop real-world applic
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -84,24 +101,3 @@ I build scalable backend systems using Spring Boot and develop real-world applic
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitsatvaya&theme=tokyonight"/>
 </p>
-
----
-
-### 💼 Featured Project
-
-🔗 **Smart Expense Tracker (HisabKhata)**  
-Backend system built using Spring Boot with:
-
-- JWT Authentication & Authorization  
-- Expense CRUD APIs  
-- Budget Management System  
-- Analytics (monthly, category-wise, date range)  
-- Alert System (budget exceeded, warnings)  
-- Clean Architecture and scalable design  
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyajitsatvaya&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
