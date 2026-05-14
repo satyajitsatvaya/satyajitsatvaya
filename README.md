@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyajit Satvaya</h1>
+<h1 align="center"> Satyajit Satvaya</h1>
 <h3 align="center">Full Stack Developer | Spring Boot | Android | Backend Focused</h3>
 
 <p align="center">
