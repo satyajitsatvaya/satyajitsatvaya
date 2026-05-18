@@ -36,14 +36,15 @@ projects on the side.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/satyajitsatvaya/upi-offline-mesh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=upi-offline-mesh&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=upi-offline-mesh&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   </a>
+  &nbsp;
   <a href="https://github.com/satyajitsatvaya/Smart_Expense_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=Smart_Expense_Tracker&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=Smart_Expense_Tracker&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   </a>
 </p>
 
@@ -95,9 +96,8 @@ Private engagement on a data-intensive web platform for a US-based client.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsatvaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsatvaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 📬 Get In Touch
