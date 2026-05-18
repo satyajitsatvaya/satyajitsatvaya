@@ -36,17 +36,12 @@ projects on the side.
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/satyajitsatvaya/upi-offline-mesh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=upi-offline-mesh&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/satyajitsatvaya/Smart_Expense_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsatvaya&repo=Smart_Expense_Tracker&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  </a>
-</p>
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| [upi-offline-mesh](https://github.com/satyajitsatvaya/upi-offline-mesh) | Java · Spring Boot · RSA+AES-GCM · JUnit | Offline UPI payment simulator — hybrid encryption, concurrent idempotency, replay protection |
+| [HisabKhata](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) | Spring Boot · Spring AI · JWT · PostgreSQL | AI-assisted expense tracker with analytics, budgeting, and spending insights |
 
 ---
 
@@ -96,8 +91,10 @@ Private engagement on a data-intensive web platform for a US-based client.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsatvaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajitsatvaya&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajitsatvaya&theme=tokyonight"/>
 </p>
+
 ---
 
 ## 📬 Get In Touch
