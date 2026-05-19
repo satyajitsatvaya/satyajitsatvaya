@@ -47,8 +47,7 @@ projects on the side.
 
 ## 📂 Projects
 
-### UPI Offline Mesh
-`Java` `Spring Boot` `JPA` `H2` `JUnit` `RSA + AES-GCM`
+### UPI Offline Mesh · [GitHub](https://github.com/satyajitsatvaya/upi-offline-mesh) · [Live](https://upi-offline-mesh-piaj.onrender.com/)
 
 An offline UPI payments simulator where transactions relay peer-to-peer
 until a bridge device uploads them for settlement.
@@ -62,7 +61,7 @@ until a bridge device uploads them for settlement.
 
 ---
 
-### HisabKhata — Smart Expense Tracker
+### HisabKhata — Smart Expense Tracker · [GitHub](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) · [Live](https://hisab-khata-azure.vercel.app/)
 `Java` `Spring Boot` `Spring Security` `Spring AI` `JWT` `PostgreSQL`
 
 Secure personal finance app with user-level data isolation and an
