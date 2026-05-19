@@ -33,21 +33,15 @@ projects on the side.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Stack | What it does |
-|--------|-------|--------------|
-| [upi-offline-mesh](https://github.com/satyajitsatvaya/upi-offline-mesh) | Java · Spring Boot · RSA+AES-GCM · JUnit | Offline UPI payment simulator — hybrid encryption, concurrent idempotency, replay protection |
-| [HisabKhata](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) | Spring Boot · Spring AI · JWT · PostgreSQL | AI-assisted expense tracker with analytics, budgeting, and spending insights |
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
-### UPI Offline Mesh · [GitHub](https://github.com/satyajitsatvaya/upi-offline-mesh) · [Live](https://upi-offline-mesh-piaj.onrender.com/)
+### UPI Offline Mesh · [GitHub](https://github.com/satyajitsatvaya/upi-offline-mesh) · [🔗 Live](https://upi-offline-mesh-piaj.onrender.com/)
+`Java` `Spring Boot` `JPA` `H2` `JUnit` `RSA + AES-GCM`
 
 An offline UPI payments simulator where transactions relay peer-to-peer
 until a bridge device uploads them for settlement.
@@ -61,7 +55,7 @@ until a bridge device uploads them for settlement.
 
 ---
 
-### HisabKhata — Smart Expense Tracker · [GitHub](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) · [Live](https://hisab-khata-azure.vercel.app/)
+### HisabKhata — Smart Expense Tracker · [GitHub](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) · [🔗 Live](https://hisab-khata-azure.vercel.app/)
 `Java` `Spring Boot` `Spring Security` `Spring AI` `JWT` `PostgreSQL`
 
 Secure personal finance app with user-level data isolation and an
@@ -88,6 +82,10 @@ Private engagement on a data-intensive web platform for a US-based client.
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyajitsatvaya&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajitsatvaya&theme=tokyonight"/>
