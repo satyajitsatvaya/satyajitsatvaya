@@ -1,136 +1,180 @@
-<h1 align="center">Satyajit Satvaya</h1>
+# Hi, I'm Satyajit Satvaya 👋
+
+<h3 align="center">Full-Stack Software Developer | Backend & Systems Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Full-Stack+Dev+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;Secure+APIs+%7C+AI+Integration+%7C+Clean+Frontends;Open+to+Remote+Roles+%26+Freelance+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=750&lines=Building+Full-Stack+Business+Applications;Java+%7C+.NET+%7C+PHP+%7C+React+%7C+Next.js;System+Design+%7C+Multi-Tenant+Applications;CI%2FCD+%7C+Linux+%7C+VPS+Deployments" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyajitsatvaya&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=satyajitsatvaya&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-<p align="center">
-I'm a full-stack developer with a backend focus — I design secure APIs,
-build data-intensive systems, and integrate AI features on the backend,
-then connect them to clean, functional React frontends. Currently
-freelancing on a US-based client platform and building Spring AI
-projects on the side.
+## About Me
+
+I'm a Full-Stack Software Developer working across backend engineering, frontend development, and infrastructure.
+
+I have experience building business applications, working on multi-tenant systems, designing REST APIs, integrating payment gateways, and managing application deployments.
+
+I also work with development teams across different applications, handling technical planning, implementation, CI/CD pipelines, and Linux-based VPS infrastructure.
+
+Currently working as an Associate Software Developer at Raktrix Technologies Pvt. Ltd.
+
+- Developing applications using Java, Spring Boot, .NET, PHP, React, and Next.js.
+- Working on system design, application architecture, and backend integrations.
+- Building and maintaining CI/CD pipelines and managing VPS deployments.
+- Integrating third-party services, payment APIs, and webhooks.
+- Exploring application-level AI integration with Spring AI.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white"/>
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### Tools & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cashfree-00B386?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Webhooks-555555?style=for-the-badge"/>
 </p>
 
 ---
-## 🛠 Tech Stack
 
-**Languages**
+## 💼 Professional Experience
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Associate Software Developer — Raktrix Technologies Pvt. Ltd.
+`June 2026 – Present`
 
-**Backend**
+- Working on multi-tenant application development and backend architecture.
+- Leading development teams across Leave Management, Intern Management, and Timesheet Management applications.
+- Working across Java, Spring Boot, .NET, PHP, React, and Next.js.
+- Designing CI/CD pipelines and managing Linux-based VPS infrastructure and application deployments.
+- Integrating Cashfree Payment Gateway APIs and webhooks into application workflows.
+- Involved in technical planning, system design, implementation, and team coordination.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### Freelance Full-Stack Developer
+`January 2026 – June 2026`
 
-**Frontend**
+- Developed REST APIs for a data-intensive platform.
+- Implemented multi-table joins, server-side pagination, advanced filtering, and controlled data exports.
+- Built React interfaces with dynamic data grids.
+- Collaborated with a remote engineering team on implementation and third-party library evaluation.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Founder & Team Leader — Promoter Media
+`April 2021 – May 2022`
 
-**Mobile**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Tools & Environment**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
----
-
-## 📂 Projects
-
-### UPI Offline Mesh · [GitHub](https://github.com/satyajitsatvaya/upi-offline-mesh) · [🔗 Live](https://upi-offline-mesh-piaj.onrender.com/)
-`Java` `Spring Boot` `JPA` `H2` `JUnit` `RSA + AES-GCM`
-
-An offline UPI payments simulator where transactions relay peer-to-peer
-until a bridge device uploads them for settlement.
-
-- Hybrid encryption (RSA-OAEP + AES-256-GCM) — relays see only opaque
-  ciphertext; tampering is rejected before settlement
-- Concurrent idempotency via SHA-256 hashing and atomic ConcurrentHashMap
-  — duplicate packets settle exactly once
-- Replay protection via nonce + timestamp, per-sender rate limiting
-- JUnit suite covering encryption, tampering, and concurrent delivery
+- Founded and led a 3-member team delivering marketing services.
+- Managed 10+ projects for Indian and international clients.
+- Handled client communication and end-to-end project delivery.
 
 ---
 
-### HisabKhata — Smart Expense Tracker · [GitHub](https://github.com/satyajitsatvaya/Smart_Expense_Tracker) · [🔗 Live](https://hisab-khata-azure.vercel.app/)
+## 📂 Featured Projects
+
+### 1. UPI Offline Mesh
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/satyajitsatvaya/upi-offline-mesh)
+[![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://upi-offline-mesh-piaj.onrender.com/)
+
+`Java` `Spring Boot` `JPA` `H2` `JUnit` `RSA-OAEP` `AES-256-GCM`
+
+An offline UPI payment simulator where transactions are forwarded peer-to-peer until a bridge device uploads them for settlement.
+
+- Hybrid encryption using RSA-OAEP and AES-256-GCM.
+- Replay protection using nonce and timestamp validation.
+- Thread-safe idempotency using SHA-256 fingerprints and ConcurrentHashMap.
+- Rate limiting and transaction integrity checks.
+- JUnit tests covering encryption, tampering, and concurrent delivery.
+
+### 2. HisabKhata — Smart Expense Tracker
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/satyajitsatvaya/Smart_Expense_Tracker)
+[![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://hisab-khata-azure.vercel.app/)
+
 `Java` `Spring Boot` `Spring Security` `Spring AI` `JWT` `PostgreSQL`
 
-Secure personal finance app with user-level data isolation and an
-AI assistant grounded in the user's own transaction history.
+A personal expense management application with user-level data isolation and an AI assistant under development.
 
-- Authentication and authorization with Spring Security + JWT
-- Expense management, budgeting, and category-wise analytics APIs
-- Spring AI assistant that answers spending questions and suggests
-  budget plans based on actual transaction history
+- Authentication and authorization using Spring Security and JWT.
+- Expense management, budgeting, and category-wise analytics APIs.
+- Spring AI integration for transaction-based spending insights and budget suggestions.
 
 ---
 
-## 💼 Freelance Work (2025 – Present)
-
-Private engagement on a data-intensive web platform for a US-based client.
-
-- REST APIs with multi-table joins, server-side pagination, and
-  multi-criteria filtering
-- Responsive React frontend data grids with sorting, filtering,
-  and pagination
-- Library evaluation against requirements and licensing constraints
-- Agile collaboration with a remote client engineer
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyajitsatvaya&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyajitsatvaya&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajitsatvaya&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajitsatvaya&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajitsatvaya&theme=tokyonight" width="46%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajitsatvaya&theme=tokyonight" width="46%"/>
 </p>
 
 ---
 
-## 📬 Get In Touch
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitsatvaya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvayasatyajit@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/satyajitsatvaya)
-
-**Open to:** Remote full-stack and backend roles · Freelance API and backend work
+<p>
+  <a href="https://linkedin.com/in/satyajitsatvaya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:satvayasatyajit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact
